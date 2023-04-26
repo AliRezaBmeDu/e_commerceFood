@@ -4,9 +4,9 @@
   "description": "ecommerce rest api",
   "main": "server.js",
   "scripts": {
-    "start": "node.server.js"
+    "start": "node server.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "AliReza",
+  "license": "MIT"
 }
